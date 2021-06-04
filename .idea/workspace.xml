@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed24d64a-9f93-4fde-9f69-bf2d07fb190a" name="Default Changelist" comment="" />
+    <list default="true" id="ed24d64a-9f93-4fde-9f69-bf2d07fb190a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/main.4e4b3a9ce0caa783da23.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/notosans.06de6f9ab5d97910be7799fa03f1235d.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/img/2.d5a7ed066e580bbdc267eb389fcc15fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +17,27 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tTZN2G2abKrmNgUm4ZmSkLQgkR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -28,7 +49,17 @@
       <recent name="C:\OpenServer\domains\Webpack2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -42,6 +73,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -53,7 +85,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622794995745</updated>
-      <workItem from="1622794996856" duration="1132000" />
+      <workItem from="1622794996856" duration="2233000" />
+      <workItem from="1622797466043" duration="26000" />
+      <workItem from="1622797885447" duration="1863000" />
     </task>
     <servers />
   </component>
@@ -61,21 +95,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1622796190277">
+    <state x="2748" y="421" key="Github.ShareDialog" timestamp="1622797146960">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622796190277" />
-    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1622796190276">
+    <state x="2748" y="421" key="Github.ShareDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622797146960" />
+    <state x="2637" y="225" key="Github.UntrackedFilesDialog" timestamp="1622797160339">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622796190276" />
-    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1622796190276">
+    <state x="2637" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622797160339" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1622799319935">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622796190276" />
-    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1622796190276">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622799319935" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1622799319935">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622796190276" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622799319935" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1622799319934">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622799319934" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1622799319935">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1622799319935" />
   </component>
 </project>
